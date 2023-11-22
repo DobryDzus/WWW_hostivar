@@ -1,0 +1,19 @@
+p{
+    color:blue;
+    text-transform:uppercase; /* transformuje velikost pismenek na kaptialky a male  */
+    font-weight: bold;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    text-align:center;
+    text-decoration:none;
+}
+
+body{
+    background-color:turquoise;
+    font-style:initial;
+    text-align:justify;
+    
+}
