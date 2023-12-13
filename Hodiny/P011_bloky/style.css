@@ -5,3 +5,14 @@ div{
 span{
     background-color: green;
 }
+
+.cus{ /* class s teckou - u vice ruznych prvku */
+    background-color: yellow;
+    font-size: 30px;
+}
+
+#prvni{ /* id s hashtagem - pouze pro JEDEN objekt*/
+    background-color: red;
+    font-size: 20px;
+    color: blue;
+}
