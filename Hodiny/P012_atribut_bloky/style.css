@@ -1,0 +1,33 @@
+div{
+    color: coral;
+    text-align: justify;
+    background-color: darkslategrey;
+}
+
+.prvni{
+    font-size: 40px;
+    text-decoration: none;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, ;
+
+    /*Nové*/
+    border-width: 5px;
+    border-style:dotted;
+    border-color: black;
+}
+
+.druhy{
+    text-align: center;
+    font-weight: 999;
+    text-transform: uppercase;
+
+    /*Nové*/
+    border: 20px solid black; /*tloustka ramecku typ ohraniceni barva ohranicen*/
+    width: 500px; /*výška prvku*/
+    height: 500px; /*šířka prvku*/
+}
+.kulaty{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
