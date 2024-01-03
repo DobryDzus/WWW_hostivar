@@ -1,0 +1,15 @@
+.kulicka{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.text{
+    width: 50%;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
