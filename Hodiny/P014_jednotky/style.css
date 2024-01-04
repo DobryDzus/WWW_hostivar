@@ -7,9 +7,16 @@
 
 .text{
     width: 50%;
+    font-size: 3em; /* EM, REM SE NASOBI!!!!!!*/
 }
 
 .container{
     display: flex;
     flex-direction: row;
+    width: 50%; /* % predstavuji procentualni cast nadrazeneho prvku */
+    font-size: 3em;
+}
+
+h1{
+    font-size: 5em; /* em, rem predstavuji nasobek puvodni velikosti fontu*/
 }
