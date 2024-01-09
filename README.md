@@ -24,15 +24,6 @@
 - trust
 - fakt ale
 
-
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#3405c0](https://via.placeholder.com/10/3405c0?text=+) #3405c0 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
 ## :toolbox: Getting Started
 
 ### :gear: Installation
