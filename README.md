@@ -5,7 +5,6 @@
 
 <h4> <span> · </span> <a href="https://github.com/DobryDzus/WWW_hostivar/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/DobryDzus/WWW_hostivar/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/DobryDzus/WWW_hostivar/issues"> Request Feature </a> </h4>
 
-
 </div>
 
 # :notebook_with_decorative_cover: Table of Contents
