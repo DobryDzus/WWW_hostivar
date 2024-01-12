@@ -1,0 +1,7 @@
+vytvor blok s nazvem container (vyska 700px, sirka 85%)
+container obsahuje 3 bloky s nazvama nadpisy, texty, vlajka
+u bloku nadpisy (10% vysky) postupuj podle prilohy (kazdy blok pod nadpisy ma 33,33%)
+blok texty(30% vysky) si rozdel na levy (75%) a pravy(25%), v obou bude text lorem
+v poslednim bloku vlajka(60% vysky) udelej vlajku madarska
+
+PS: Okraje bloku delej pomoci border-right nebo border-bottom ;)
