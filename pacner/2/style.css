@@ -8,7 +8,7 @@
 }
 
 .levy{
-    width: 70%;
+    width: 84%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -28,7 +28,7 @@
 .trendy_text{
     color: white;
     font-size: 70px;
-    margin-right: 360px;
+    margin-right: 500px;
 }
 
 .prostredni{
@@ -79,7 +79,7 @@
 }
 
 .graphic{
-    width: 75%;
+    width: 77%;
     height: 100%;
     margin-top: 40px;
     background-color: lightgray;
@@ -92,18 +92,50 @@
 
 .graphic_text{
     color: darkslategrey;
-    font-size: 20px;
-    margin-right: 520px;
+    font-size: 30px;
+    margin-right: 580px;
 
 }
 
 .zeme{
-    width: 25%;
+    width: 20%;
     height: 100%;
     margin-top: 40px;
+    margin-left: 20px;
+}
+
+.pozadi{
     border-radius: 40px;
 }
 
+.pravy{
+    width: 16%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.postava{
+    width: 100%;
+    height: 40%;;
+
+}
+
 .max{
+    width: 100%;
+    height: 100%;
+    border-radius: 40px
+}
+
+.podpis{
+    width: 100%;
+    height: 60%;
+    background-color: lightgray;
     border-radius: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
 }
