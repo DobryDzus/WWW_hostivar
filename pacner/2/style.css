@@ -100,4 +100,10 @@
 .zeme{
     width: 25%;
     height: 100%;
+    margin-top: 40px;
+    border-radius: 40px;
+}
+
+.max{
+    border-radius: 40px;
 }
