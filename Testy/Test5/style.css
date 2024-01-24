@@ -1,0 +1,43 @@
+h1{
+    display: flex;
+    
+}
+
+.container{
+
+    border: 1px solid black;
+    width: 80%;
+    height: 800px;
+
+    
+}
+
+.hlavni1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.blok1{
+    width: 20%;
+    height: 90%;
+    border: 1px solid red;
+}
+
+.blok2{
+    width: 20%;
+    height: 90%;
+    border: 1px solid blue;
+}
+
+.blok3{
+    width: 20%;
+    height: 90%;
+    border: 1px solid green;
+}
+
+.blok4{
+    width: 20%;
+    height: 90%;
+    border: 1px solid yellow;
+}

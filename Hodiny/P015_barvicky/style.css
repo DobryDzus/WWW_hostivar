@@ -1,0 +1,19 @@
+body{
+    background-color: darkseagreen;
+}
+
+h1{
+    color: #c5f9a0;
+}
+
+h2{
+    color: rgb(110, 0, 255);
+}
+
+h3{
+    color: hsl(170, 100%, 17%);
+}
+
+div{
+    color: rgba(111, 0, 255, 0.3);
+}
