@@ -1,0 +1,29 @@
+table{
+    border: 1px solid black; /* POUZE OKRAJ TABULECKY */
+    margin: 10px;
+    width: 50vw;
+    height: 500px;
+    border-collapse: separate; /* POUZE U TABLE collapse x separate */
+    empty-cells: hide; /* SKRYJE/ODKRYJE PRAZDNE BUNKY (k cemu to je???) NESMI BYT BORDER-COLLAPSE:COLLAPSE!!!!!!!!!! */
+}
+
+.cervena{
+    background-color: red;
+}
+.modra{
+    background-color: blue;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: green;
+}
+
+th{
+    color: rgb(105, 11, 220);
+    font-weight: 500;
+    font-size: 42px;
+    text-align: center;
+    vertical-align: top; /* BOTTOM, MIDDLE TOP XDDDD ja junglim */
+}
